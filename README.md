@@ -1,6 +1,13 @@
 # repositorio_1
  
 
- Criando meu primeiro repositório 
+ Criando meu primeiro repositório
 
- editado por Natalia
+ Criado por Natalia;
+
+09/09 github 
+
+
+
+
+
