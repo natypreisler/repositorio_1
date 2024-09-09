@@ -7,9 +7,7 @@
 
 09/09/24 github 
 
-alteração em aula 
-
-19:44;
+Alteração em aula - 19:46;
 
 
 
